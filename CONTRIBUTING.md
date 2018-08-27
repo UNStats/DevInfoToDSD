@@ -17,9 +17,6 @@ If something isn't working the way you expected, please take a look at [previous
 
 We're just getting started so even just telling us what you want to see would be extremely helpful!
 
-## Contributing to this Project
----
-
 Issues
 ------
 
