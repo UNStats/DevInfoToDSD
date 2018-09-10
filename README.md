@@ -21,7 +21,7 @@ to export the Shapefiles to serve as the geographical data
 
 2. Run the [Export All Data to Single CSV](notebooks/Export%20All%20Data%20to%20Single%20CSV.ipynb) Jupyter Notebook to generate a single CSV file that will have the statistical data from the access database.
 
-3. Run the [Export GeoJSON to File Geodatabase](notebooks/Export%20GeoJSON%20to%20File%20Geodatabase.ipynb) Jupyter Notebook to join your exported CSV file (from step 2) to your spatial data (from step 1).
+3. Run the [Export to GeoJSON with Indicator Attributes](notebooks/Export%20to%20GeoJSON%20with%20Indicator%20Attributes.ipynb) Jupyter Notebook to join your exported CSV file (from step 2) to your spatial data (from step 1).
 
 4. _Optional_ Run the [Export GeoJSON to File Geodatabase](notebooks/Export%20GeoJSON%20to%20File%20Geodatabase.ipynb) Jupyter Notebook to create a File Geodatabase and export each GeoJSON file (from step 3) to a feature class
 
