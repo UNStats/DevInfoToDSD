@@ -5,12 +5,6 @@ This repo will walk you through the process of converting a DevInfo Access Datab
 1. You will need your DevInfo MS Access Database, so locate where that is and make note of the path
 2. Install and setup your Jupyter Notebook environment using [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/install.html)
     - It's recommended to [download and install Anaconda](https://docs.continuum.io/anaconda/install/), which will include Jupyter Notebook 
-3. Install [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/user_install.html)
-    - If you are using [Jupyter Lab](), you will also need to run this command to enable the widgets:
-    
-      `jupyter labextension install @jupyter-widgets/jupyterlab-manager`
-
-      More info can be found [here](https://ipywidgets.readthedocs.io/en/stable/user_install.html#installing-the-jupyterlab-extension)
 
 ## Create your working directory
 1. Use `git clone` to clone this repository to a local or working directory.
