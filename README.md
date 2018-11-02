@@ -1,19 +1,18 @@
 # DevInfo to DSD
 This repo will walk you through the process of converting a DevInfo Access Database to files that can be published to your ArcGIS Hub (Open Data) site.
 
-
 ## Getting Started
 1. You will need your DevInfo MS Access Database, so locate where that is and make note of the path
 2. Install and setup your Jupyter Notebook environment using [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/install.html)
-
-## Starting your Jupyter Notebook Environment
-- Use the `cd <path>` command to change to your working directory
-- From the `Python Command Prompt`, start your Jupyter Notebook server using the `jupyter notebook` command
 
 ## Create your working directory
 1. Use `git clone` to clone this repository to a local or working directory.
 2. In the Jupyter Notebook web browser, navigate to `notebooks` in your cloned working directory
 3. It is recommended to create a new directory under `notebooks` where you can work. Example `notebooks/mycountryname`
+
+## Starting your Jupyter Notebook Environment
+- Use the `cd <path>` command to change to your working directory
+- From the `Python Command Prompt`, start your Jupyter Notebook server using the `jupyter notebook` command
 
 ## Exporting the Data
 1. Run the [Export to Shapefiles](notebooks/Export%20to%20Shapefiles.ipynb) Jupyter Notebook first
